@@ -145,7 +145,7 @@ createCode()
             </el-input>
           </el-form-item>
           <el-button :loading="loading" type="primary" size="large" @click.prevent="handleLogin">
-            登 录
+            登 录 / Login
           </el-button>
         </el-form>
       </div>

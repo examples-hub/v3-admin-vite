@@ -16,3 +16,18 @@ vite.config.*.timestamp*
 # Use the pnpm
 package-lock.json
 yarn.lock
+
+# Clacky-related configuration
+.1024*
+!.1024
+.breakpoints
+
+# Language-specific files
+*.tsbuildinfo
+
+# Framework-related files
+*.vue
+*.js
+
+# Package manager directories
+.pnpm-store
