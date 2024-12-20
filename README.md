@@ -1,15 +1,10 @@
 <div align="center">
-  <img alt="logo" width="120" height="120" src="./src/common/assets/images/layouts/logo.png">
   <h1>V3 Admin Vite</h1>
 </div>
 
-[![github release](https://img.shields.io/github/v/release/un-pany/v3-admin-vite?style=flat)](https://github.com/un-pany/v3-admin-vite/releases)
-[![github stars](https://img.shields.io/github/stars/un-pany/v3-admin-vite?style=flat)](https://github.com/un-pany/v3-admin-vite/stargazers)
-[![gitee stars](https://gitee.com/un-pany/v3-admin-vite/badge/star.svg)](https://gitee.com/un-pany/v3-admin-vite/stargazers)
-
 <b>English | <a href="./README.zh-CN.md">中文</a></b>
 
-## Introduction
+## Introduction 1220-1135
 
 V3 Admin Vite is a free and open-source foundational solution for backend management systems, based on popular technologies such as Vue3, Vite, TypeScript, Element Plus, and others
 
